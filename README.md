@@ -27,3 +27,9 @@ dinâmicas e amigáveis.
 </div>
 
 ##
+
+<div>
+    <a href="https://www.linkedin.com/in/wellington-silva-726b31349/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.instagram.com/all.emao/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <a href="https://open.spotify.com/user/lim%C3%A3ozang%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+</div>
