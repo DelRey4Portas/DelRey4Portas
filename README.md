@@ -4,13 +4,22 @@ Sou um desenvolvedor interessado na área de frontend, buscando aprimorar minhas
 ganhar experiência. Estou aprendendo HTML, CSS, JavaScript e React, focado em criar interfaces
 dinâmicas e amigáveis.
 
-🚀 Objetivos:
+---
+
+### 🚀Objetivos:
 - Aprimorar minhas habilidades em frontend
 - Contribuir com projetos open-source
 - Explorar novas tecnologias TypeScript e Next.js.
 
-📚 Vamos colaborar:
-- Sinta-se à vontade para sugerir ideias ou colaborar nos meus projetos!
+### 📚 Vamos colaborar:
+ Sinta-se à vontade para sugerir ideias ou colaborar nos meus projetos!
+
+ Você pode me achar em:
+
+ - {Linkedin}
+ - {Instagram}
+
+#
 
 <div>
     <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=DelRey4Portas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700"/>
