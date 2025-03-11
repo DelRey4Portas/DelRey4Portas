@@ -16,13 +16,7 @@ dinâmicas e amigáveis.
 ### 📚 Vamos colaborar:
  Sinta-se à vontade para sugerir ideias ou colaborar nos meus projetos!
 
- Você pode me achar em:
-
- - {Linkedin}
- - {Instagram}
-
-#
-
+##
 
 <div>
     <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=DelRey4Portas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700"/>
