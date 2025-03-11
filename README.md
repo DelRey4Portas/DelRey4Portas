@@ -19,8 +19,8 @@ dinâmicas e amigáveis.
 ##
 
 <div>
-    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=DelRey4Portas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelRey4Portas&show_icons=tru&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700">
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=WellingtonSilva99&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonSilva99&show_icons=tru&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700">
 <div>
 
 ##
