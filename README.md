@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, me chamo Wellington Silva👋
 
-<!--
-**DelRey4Portas/DelRey4Portas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor interessado na área de frontend, buscando aprimorar minhas habilidades e
+ganhar experiência. Estou aprendendo HTML, CSS, JavaScript e React, focado em criar interfaces
+dinâmicas e amigáveis.
 
-Here are some ideas to get you started:
+🚀 Objetivos:
+- Aprimorar minhas habilidades em frontend
+- Contribuir com projetos open-source
+- Explorar novas tecnologias TypeScript e Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Vamos colaborar:
+- Sinta-se à vontade para sugerir ideias ou colaborar nos meus projetos!
+
+<div>
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=DelRey4Portas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelRey4Portas&show_icons=tru&theme=synthwave&include_all_commits=true&count_private=true&title_color=FFD700">
+<div>
